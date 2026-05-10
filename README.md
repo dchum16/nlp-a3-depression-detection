@@ -107,10 +107,7 @@ Any real-world application of this kind of system should involve human oversight
 | Ibrahim Kashif| [25261090] |
 | Ayaan Khurram Saghir| [25556263] |
 | Dylan Chum | [14623413] |
-| [Luca Martins] | [Student ID] |
+| Luca Martins | [Student ID] |
 
----
 
-## Acknowledgements
 
-This project was developed as part of the NLP Algorithms subject at the University of Technology Sydney. AI tools were used for assistance with drafting, code review, and grammar checking; all outputs were verified and revised by the group prior to submission.
