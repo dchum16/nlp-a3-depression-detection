@@ -104,9 +104,9 @@ Any real-world application of this kind of system should involve human oversight
 
 | Name | Student ID |
 |---|---|
-| Ibrahim | [Student ID] |
-| Ayaan | [Student ID] |
-| Dylan Chum | [Student ID] |
+| Ibrahim Kashif| [25261090] |
+| Ayaan Khurram Saghir| [25556263] |
+| Dylan Chum | [14623413] |
 | [4th Member Name] | [Student ID] |
 
 ---
