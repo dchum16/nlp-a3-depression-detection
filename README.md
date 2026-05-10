@@ -1,6 +1,6 @@
 # Mental Health Signal Detection in Social Media Text
 
-A fine-tuned DistilBERT classifier for detecting depression-indicative language in Reddit posts. Developed for **NLP Assessment 3 (41043/42850 — Natural Language Processing Algorithms, UTS, Autumn 2026).**
+A fine-tuned DistilBERT classifier for detecting depression-indicative language in Reddit posts. Developed for **NLP Assessment 3 (41043/42850 - Natural Language Processing Algorithms, UTS, Autumn 2026).**
 
 ---
 
@@ -107,7 +107,7 @@ Any real-world application of this kind of system should involve human oversight
 | Ibrahim Kashif| [25261090] |
 | Ayaan Khurram Saghir| [25556263] |
 | Dylan Chum | [14623413] |
-| [4th Member Name] | [Student ID] |
+| [Luca Martins] | [Student ID] |
 
 ---
 
