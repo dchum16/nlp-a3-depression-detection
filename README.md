@@ -107,7 +107,7 @@ Any real-world application of this kind of system should involve human oversight
 | Ibrahim Kashif| [25261090] |
 | Ayaan Khurram Saghir| [25556263] |
 | Dylan Chum | [14623413] |
-| Luca Martins | [Student ID] |
+| Luca Martins | [25333889] |
 
 
 
